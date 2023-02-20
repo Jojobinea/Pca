@@ -54,7 +54,7 @@ int main()
     DefineEquipe(ataque, nAtaque, 5);
 
     printf("A melhor equipe e composta por:\n\n");
-    printEquipe("GOLEIROS", goleiros, 1);
+    printEquipe("GOLEIRO", goleiros, 1);
     printEquipe("DEFESA", defesa, 4);
     printEquipe("MEIO", meio, 4);
     printEquipe("ATACANTES", ataque, 2);
