@@ -53,7 +53,7 @@ int main()
     DefineEquipe(meio, nMeio, 8);
     DefineEquipe(ataque, nAtaque, 5);
 
-    printEquipe("A melhor equipe e composta por:\n");
+    printf("A melhor equipe e composta por:\n\n");
     printEquipe("GOLEIROS", goleiros, 1);
     printEquipe("DEFESA", defesa, 4);
     printEquipe("MEIO", meio, 4);
